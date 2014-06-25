@@ -9,6 +9,6 @@ Simple Othello Java implementation using Swing GUI
 
 - Run application with your IDE's default configuration. There are no special dependencies.
 
-###Screenshit
+###Screenshot
 
 ![Othello Java](http://i.imgur.com/q0aBeen.png)
