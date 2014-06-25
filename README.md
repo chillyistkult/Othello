@@ -3,7 +3,7 @@ Othello
 
 Simple Othello Java implementation using Swing GUI
 
-#Installation
+###Installation
 
 - Clone project `git clone git@github.com:chilly90/Othello.git`
 
